@@ -1,3 +1,7 @@
+This is a random meme generaotr app.
+Add a top text and a bottom text and it will generate a random meme image for you.
+For reference images open the initial-screen.jpg and screen1.jpg
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
